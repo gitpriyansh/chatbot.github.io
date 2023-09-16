@@ -1,6 +1,6 @@
 {
   "name": "medical-symptom-checker",
-  "homepage": "https://{GITHUB_USERNAME}.github.io/{REPOSITORY_NAME}/",
+  "homepage": "https://{gitpriyansh}.github.io/{chatbot.github.io}/",
   "version": "1.0.0",
   "description": "The DHILab Medical Symptom Checker helps you understand the possible causes of symptoms in children and adults.",
   "author": "Labinator.com",
